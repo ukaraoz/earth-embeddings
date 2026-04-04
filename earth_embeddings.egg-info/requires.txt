@@ -1,0 +1,4 @@
+ee>=0.2
+geemap>=0.37.2
+pydantic~=2.0
+pydantic-settings
