@@ -282,7 +282,7 @@ def main():
     # 1. Initialisation
     init_gee()
 
-    # 2. Charger les événements
+    # 2. load the locations
     locations = load_locations(LOCATIONS_CSV)
 
     if not locations:
